@@ -1,5 +1,5 @@
 ## Hi, I'm Allisson! 👋
-I'm a nutritionist specializing in oncology here in my city, but I've always been curious about learning to be a programmer, so in 2024 I started my studies and I intend to become a Full Stack programmer soon.
+I'm a nutritionist specializing in oncology here in my city, but I've always been curious to learn how to program, so in 2024 I started my studies and I intend to become Full Stack soon.
 <br>
 <br>
 <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" width="80px" height="22px"/></a> <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram" width="90px" height="22px"/></a>
